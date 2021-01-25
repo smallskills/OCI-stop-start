@@ -2,7 +2,7 @@
 
 # DEV
 COMPARTMENT_DEV_OCID=ocid1.compartment.oc1..xxxxxxxxx
-EXCLUDE_RESOURCES=("exclude1" "exclude2")
+EXCLUDE_RESOURCES=("ocid1.instance.oc1.xxxxx" "ocid1.instance.oc1.xxxx")
 LIFE_STATUS_EXPECTED="RUNNING"
 
 # 1. For each COMPARTMENT DEV
